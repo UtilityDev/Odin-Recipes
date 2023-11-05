@@ -13,3 +13,10 @@ li:hover {
 img {
     border-radius: 12px;
 }
+
+.list {
+    background-color: red;
+    border: 3px solid black;
+    width: 450px;
+    border-radius: 12px;
+}
