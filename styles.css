@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+li:hover {
+    color: white;
+    background-color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+img {
+    border-radius: 12px;
+}
